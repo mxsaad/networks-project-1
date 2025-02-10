@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Networks - Project 1
 
-## Getting Started
+## Project Overview
 
-First, run the development server:
+This project involves setting up a website as part of a Computer Networking project. The website is created using Next.js, Tailwind CSS, and TypeScript, and is deployed on Vercel.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Domain & Hosting
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The website is hosted on Vercel and is accessible via the subdomain [networks-project-1.vercel.app](https://networks-project-1.vercel.app). Vercel provides a seamless deployment process with CI/CD integration.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Website Setup
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The website is built using Next.js for the framework, Tailwind CSS for styling, and TypeScript for type safety. The repository is hosted on GitHub, and any push or merge to the main branch triggers a deployment on Vercel.
 
-## Learn More
+## Networking Aspects
 
-To learn more about Next.js, take a look at the following resources:
+The site is accessible online, demonstrating knowledge of DNS, IP addresses, and protocols. The domain name system (DNS) translates the domain name to an IP address, allowing users to access the site via the subdomain.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Challenges Faced
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Some challenges faced during the project included configuring the DNS settings and ensuring the CI/CD pipeline was correctly set up. These were resolved by referring to Vercel and GitHub documentation.
 
-## Deploy on Vercel
+## Conclusion
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project provided hands-on experience with web development and networking concepts. The website is live and demonstrates the application of DNS, IP addresses, and deployment protocols.
